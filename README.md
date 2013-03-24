@@ -8,9 +8,9 @@ tools
 ```
 $ ./analyzeParam.pl test.json name
 [result]
-name	count
-nameko	3
-big nameko	1
+name	count   
+nameko	3   
+big nameko	1   
 ```
 * reference   
 perl summary : [http://www.tohoho-web.com/wwwperl1.htm]   
