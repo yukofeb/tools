@@ -4,6 +4,14 @@ tools
 ```
 ./analyzeParam.pl {json_file} {analyze_parameter}
 ```
+* example   
+```
+$ ./analyzeParam.pl test.json name
+[result]
+name	count
+nameko	3
+big nameko	1
+```
 * reference   
 perl summary : [http://www.tohoho-web.com/wwwperl1.htm]   
 json module1 : [http://d.hatena.ne.jp/perlcodesample/20100427/1270894115]   
